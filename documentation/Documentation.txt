@@ -1,0 +1,12 @@
+Its my one of the first big projects that I made for my own use. I regularly use the pomodoro technique in my work cycles
+so I made the app as my likings and some of its feature are mentioned that I added to improve the user experience like-
+
+1> when the timer changes from work mode to break mode it will play the sound and let you know.
+
+2> break and work has different sounds so you can guess what is the time for what without maximizing the app various time.
+
+3> if you place the app window behind every other window of programs so when the time will change the mode from work to 
+break or break to work it will automatically come in front of the every other window that you are working to let you know,
+just make sure you don't minimize the window it should be behind the screen.
+
+
