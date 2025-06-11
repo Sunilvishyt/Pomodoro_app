@@ -5,8 +5,11 @@ Vesion 1.5.1
 added sound effects on changing the timer mode.
 
 <h2> Screenshots from the app</h2>
-main screen.
+
+main screen:
+
 ![mainpage](screenshots/pomodoro1.png)
 
-work mode.
+work mode:
+
 ![mainpage](screenshots/pomodoro2.png)
