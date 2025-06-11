@@ -10,6 +10,11 @@ main screen:
 
 ![mainpage](screenshots/pomodoro1.png)
 
+<<<<<<< HEAD
 work mode:
 
 ![mainpage](screenshots/pomodoro2.png)
+=======
+work mode.
+![workmode](screenshots/pomodoro2.png)
+>>>>>>> 7e31b7d8fe3dfb9b6f0b9df8ac9851fe6f65df79
