@@ -9,4 +9,4 @@ main screen.
 ![mainpage](screenshots/pomodoro1.png)
 
 work mode.
-![mainpage](screenshots/pomodoro2.png)
+![workmode](screenshots/pomodoro2.png)
